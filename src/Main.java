@@ -3,8 +3,7 @@ import java.util.Arrays;
 public class Main {
     public static Employee[] worker = new Employee[10];
     public static int sum = 0;
-//    public static int minEmployeeSalary = worker[0].getEmployeeSalary();
-//    public static int maxEmployeeSalary = worker[0].getEmployeeSalary();
+
 
 
     public static void main(String[] args) {
